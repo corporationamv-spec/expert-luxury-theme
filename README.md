@@ -80,3 +80,14 @@ wp-content/themes/
 Реализацию интерактивных элементов без библиотек
 Организацию кода по профессиональным стандартам
 Работу с Git и GitHub
+
+## Скриншоты
+
+### Главная страница
+![Главная](assets/screenshots/homepage.png)
+
+### Секция экспертов
+![Эксперты](assets/screenshots/expert-section.png)
+
+### Секция услуг
+![Услуги](assets/screenshots/services.png)
